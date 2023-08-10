@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f3aa0cb22ec8da42a1880ee728fccfe, type: 3}
+  m_Name: SMB_Blackboard_ZipperMouth
+  m_EditorClassIdentifier: 
+  dataList:
+  - dataName: baseIdleTime_v32
+    dataType: 3
+  curDataCount: 1
+  dataName: baseIdleTime_v32
+  dataName_extIndex: 0
+  dataType: 3
+  intData: 1
+  floatData: 2
+  v2Data: {x: 0, y: 0}
+  v3Data: {x: 0, y: 0, z: 0}
+  goData: {fileID: 0}
+  transformData: {fileID: 0}
+  colliderData: {fileID: 0}
+  rbData: {fileID: 0}
+  unitData: {fileID: 0}
+  zipperUnitData: {fileID: 0}
+  operateParamName: 
+  LastParamHash: 8742244
