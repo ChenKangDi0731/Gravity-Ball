@@ -33,6 +33,6 @@
 
 # 制作者
 
-* 作成者：陳 康迪
+* 作成者：陳 康迪（CHIN KANTE）
 * 所属：HAL東京
 * E-mail：chinkouteki.hal@gmail.com
